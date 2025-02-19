@@ -151,3 +151,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <script src="assets/js/bootstrap.min.js" crossorigin="anonymous"></script>
 </body>
 </html>
+
+<!-- Tantangan -->
+
+<!-- User 2 akun dan pembayaran tidak boleh kurang dari total harga -->
